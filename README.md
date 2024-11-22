@@ -2,8 +2,6 @@
 
 ### Nome da Aplicação: Energy Saver
 
-## Logo GS (Redimensionada)
-
 <img src="images/Logo%20GS.jpg" alt="Logo GS" width="200">
 
 ### Descrição do projeto: <br>
