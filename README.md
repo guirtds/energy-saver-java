@@ -1,14 +1,13 @@
-# Global Solution - Energy Saver
-
-### Nome da Aplicação: Energy Saver
-
-<img src="images/Logo%20GS.jpg" alt="Logo GS" width="200">
-
-### Descrição do projeto: <br>
-
-- O EnergySave é um sistema revolucionário de monitoramento de energia para iluminação pública que visa promover eficiência e sustentabilidade ambiental urbana. Através da integração de sensores IoT e uma API REST em Java, o sistema coleta e analisa em tempo real informações referentes ao consumo dos postes, resultando na redução do desperdício energético e na facilitação do planeamento da manutenção. Por meio de um aplicativo móvel dedicado, as autoridades podem visualizar dados atualizados instantaneamente, receber alertas sobre usos anómalos da energia e consultar relatórios minuciosos para uma gestão mais inteligente e sustentável no âmbito da iluminação urbana.
-<br>
-
+<div style="display: flex; align-items: center;">
+  <img src="images/Logo%20GS.jpg" alt="Logo GS" width="150" style="margin-right: 20px;">
+  <div>
+    <h1>Global Solution - Energy Saver</h1>
+    <h2>Nome da Aplicação: Energy Saver</h2>
+    <p>
+      O EnergySave é um sistema revolucionário de monitoramento de energia para iluminação pública que visa promover eficiência e sustentabilidade ambiental urbana. Através da integração de sensores IoT e uma API REST em Java, o sistema coleta e analisa em tempo real informações referentes ao consumo dos postes, resultando na redução do desperdício energético e na facilitação do planejamento da manutenção. Por meio de um aplicativo móvel dedicado, as autoridades podem visualizar dados atualizados instantaneamente, receber alertas sobre usos anômalos da energia e consultar relatórios minuciosos para uma gestão mais inteligente e sustentável no âmbito da iluminação urbana.
+    </p>
+  </div>
+</div>
 ![Arquitetura GS Java](images/Arquitetura%20GS%20Java.jpg)
 
 - Acessar link para vídeo do pitch do projeto: 
