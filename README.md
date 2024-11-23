@@ -9,8 +9,8 @@
 
 ![Arquitetura GS Java](images/Arquitetura%20GS%20Java.jpg)
 
-- Acessar link para vídeo do pitch do projeto: 
-- Acessar link para a apresentação e explicação do projeto: 
+- Acessar link para vídeo do pitch do projeto: <a href="https://youtu.be/au2fV7f_mJA?si=wDwwP70hHk7l8Sbb">Pitch</a>
+- Acessar link para a apresentação e explicação do projeto: <a href="https://youtu.be/2mMRDkeWIrg?si=d_RbTaXyY5LZa-jQ">Projeto</a>
 
 ### 🚀 Tecnologias Utilizadas
 - Java 17: Linguagem de programação principal.
@@ -22,7 +22,6 @@ Para testar o projeto localmente, siga as etapas abaixo:
 1. Clone o repositório: 
 2 Configure o ambiente: Certifique-se de ter o Java 17 e o Maven instalados.
 3. Execute a aplicação: mvn spring-boot:run
-
  
 ## Integrantes
 - Guilherme Rocha Toledo dos Santos - RM99396
